@@ -1,0 +1,9 @@
+\\gandalf\home$\dakinola\Proffesional Developmt\Testing\Automation\C# 2018\DJConsoleOneSolution\DJConsoleOne\bin\Debug\DJConsoleOne.exe.config
+\\gandalf\home$\dakinola\Proffesional Developmt\Testing\Automation\C# 2018\DJConsoleOneSolution\DJConsoleOne\bin\Debug\DJConsoleOne.exe
+\\gandalf\home$\dakinola\Proffesional Developmt\Testing\Automation\C# 2018\DJConsoleOneSolution\DJConsoleOne\bin\Debug\DJConsoleOne.pdb
+\\gandalf\home$\dakinola\Proffesional Developmt\Testing\Automation\C# 2018\DJConsoleOneSolution\DJConsoleOne\obj\Debug\DJConsoleOne.exe
+\\gandalf\home$\dakinola\Proffesional Developmt\Testing\Automation\C# 2018\DJConsoleOneSolution\DJConsoleOne\obj\Debug\DJConsoleOne.pdb
+\\gandalf\home$\dakinola\Proffesional Developmt\Testing\Automation\C# 2018\DJConsoleOneSolution\DJConsoleOne\obj\Debug\DJConsoleOne.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\CSharp2018\DJConsoleOneSolution\DJConsoleOne\bin\Debug\DJConsoleOne.exe.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\CSharp2018\DJConsoleOneSolution\DJConsoleOne\obj\Debug\DJConsoleOne.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\CSharp2018\DJConsoleOneSolution\DJConsoleOne\obj\Debug\DJConsoleOne.pdb
