@@ -7,3 +7,6 @@
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\CSharp2018\DJConsoleOneSolution\DJConsoleOne\bin\Debug\DJConsoleOne.exe.config
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\CSharp2018\DJConsoleOneSolution\DJConsoleOne\obj\Debug\DJConsoleOne.exe
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\CSharp2018\DJConsoleOneSolution\DJConsoleOne\obj\Debug\DJConsoleOne.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\Csharp2018\DJConsoleOneSolution\DJConsoleOne\bin\Debug\DJConsoleOne.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\Csharp2018\DJConsoleOneSolution\DJConsoleOne\bin\Debug\DJConsoleOne.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Automation Class - Andre\Csharp2018\DJConsoleOneSolution\DJConsoleOne\obj\Debug\DJConsoleOne.csprojResolveAssemblyReference.cache
